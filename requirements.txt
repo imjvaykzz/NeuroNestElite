@@ -1,0 +1,9 @@
+streamlit
+firebase-admin
+python-dotenv
+requests
+pytz
+openai
+streamlit-lottie
+streamlit-option-menu
+streamlit_extras
